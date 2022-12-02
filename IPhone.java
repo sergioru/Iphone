@@ -1,4 +1,4 @@
-public class IPhone implements Navegador, Telefone, TocadorMusical{
+public class IPhone implements Internet, Phone, iPod{
 
        public void exibirPagina() {
         System.out.println("EXIBINDO PÁGINA");
